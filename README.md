@@ -4,9 +4,9 @@
 
 ### Modifying & Merging branch with main
 
-![Modifiing Test Branch](screen/testcheck.png)
+![Modifiing Test Branch](screens/testcheck.png)
 
-![Merging with Main](screen/mergecheck.png)
+![Merging with Main](screens/mergecheck.png)
 
 ### Removing Branches Locally
 
@@ -34,7 +34,7 @@ git push origin -d branchName
 
 ### Creating Annotated Tags and Pushing remotly
 
-![Annotated Tags](screen/tagcheck.png)
+![Annotated Tags](screens/tagcheck.png)
 
 ### How to List Tags Locally
 
