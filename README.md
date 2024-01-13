@@ -4,7 +4,7 @@
 
 ### Modifying & Merging branch with main
 
-![Modifiing Test Branch](./screens/testcheck.png)
+![Modifiing Test Branch](./screens/testcheck.PNG)
 
 ![Merging with Main](./screens/mergecheck.PNG)
 
