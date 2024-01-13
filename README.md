@@ -2,9 +2,11 @@
 
 
 
-### Merging branch with main
+### Modifying & Merging branch with main
 
-![Merging with Main](merge_dev_with_main.png)
+![Modifiing Test Branch](screen/testcheck.png)
+
+![Merging with Main](screen/mergecheck.png)
 
 ### Removing Branches Locally
 
@@ -30,9 +32,9 @@ git push origin -d branchName
 ```
 
 
-### Creating Annotated Tags
+### Creating Annotated Tags and Pushing remotly
 
-![Annotated Tags](annotated_tags.png)
+![Annotated Tags](screen/tagcheck.png)
 
 ### How to List Tags Locally
 
